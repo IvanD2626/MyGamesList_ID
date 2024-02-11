@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "176172163431",
+    "project_id": "mygameslist-d70ce",
+    "storage_bucket": "mygameslist-d70ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176172163431:android:4924502d9c243f76884fc2",
+        "android_client_info": {
+          "package_name": "hr.ivandemsic.MyGamesList"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm9TPvQ6CTpQBsatH0d4gFDEUa58fY3RI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
